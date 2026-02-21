@@ -5,12 +5,12 @@ title: Terms of Service
 
 # Terms of Service
 
-Last updated: January 20th, 2026
+Last updated: February 21, 2026
 
 By using **Qcelot** (“the bot”), you agree to these Terms of Service.
 
 ## 1. Description of Service
-Qcelot is a Discord bot that monitors player count data for Farm Hunt on Hypixel and provides notifications and command-based interactions within Discord servers.
+Qcelot is a Discord bot that monitors player count data for games on the Hypixel network and provides notifications and command-based interactions within Discord servers.
 
 ## 2. Acceptable Use
 You agree not to use Qcelot to:
